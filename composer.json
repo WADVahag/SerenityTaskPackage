@@ -10,5 +10,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "coingecko-raw-getter\\": "src/coingecko-raw-getter/"
+        }
+    }
 }
