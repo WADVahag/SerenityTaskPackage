@@ -1,0 +1,14 @@
+{
+    "name": "wadvahag/coingecko-raw-getter",
+    "description": "getting raw data from coingecko",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vahagn Grigoryan",
+            "email": "vahagn.grigoryan.92@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
