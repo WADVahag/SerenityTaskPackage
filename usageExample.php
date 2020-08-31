@@ -14,9 +14,9 @@ echo '</pre>';
 // but if you want to get it as an object 
 // than use getGeckoCoinObject ($yourcoinId) function 
 
-echo '<pre>';
-var_dump($getter->getGeckoCoinArray('01coin'));
-echo '</pre>';
+// echo '<pre>';
+// var_dump($getter->getGeckoCoinArray('01coin'));
+// echo '</pre>';
 
 
 ?>
